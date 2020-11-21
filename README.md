@@ -1,4 +1,4 @@
-# Eiii, On8! Hoje é a nossa última aulda de React!😃
+# Eiii, On8! Hoje é a nossa última aula de React!😃
 
 Semana 16, senhoras! Dá pra acreditar o quanto nosso tempo juntas passou voando?
 
